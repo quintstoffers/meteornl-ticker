@@ -1,0 +1,21 @@
+{
+  "name": "thinger",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "apollo-client": "^0.4.20",
+    "apollo-server": "^0.3.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "graphql": "^0.7.1",
+    "graphql-subscriptions": "^0.2.0",
+    "graphql-tag": "^0.1.14",
+    "graphql-tools": "^0.6.2",
+    "graphql-typings": "0.0.1-beta-2",
+    "meteor-node-stubs": "~0.2.0",
+    "mongo-oplog-observable": "0.0.4",
+    "subscriptions-transport-ws": "^0.2.5"
+  }
+}
